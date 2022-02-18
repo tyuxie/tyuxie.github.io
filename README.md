@@ -8,5 +8,4 @@ I am a Ph.D. candidate in the School of Mathematical Sciences of Peking Universi
 
 ### Interests
 - Computer vision; Statistical learning; Deep learning.
-- Chinese politics and economics.
 - Instrumental performance, such as erhu and guitar.
