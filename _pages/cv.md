@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in statistics, School of Mathematical Sciences, Peking University, 2021.
-* B.S. in economics, National School of Development, Peking University, 2021.
-* Ph.D in statistics, School of Mathematical Sciences, Peking University, 2026 (expected).
+* B.E. in economics, National School of Development, Peking University, 2021.
+* Ph.D. in statistics, School of Mathematical Sciences, Peking University, 2026 (expected).
 
 Work Experience
 ======
