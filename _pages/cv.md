@@ -23,8 +23,8 @@ Work Experience
 
 Awards
 ======
-* The 11th Mathematics Competition of Chinese College Students (CMC Final), **National First Prize**, 2021.
-* Contemporary Undergraduate Mathematical Contest in Modeling (CUCUM 2019), **National Second Prize**, 2019.
+* The 11th National College Students Mathematical Competition (CMC Final), **National First Prize**, 2021.
+* Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM 2019), **National Second Prize**, 2019.
 * Outstanding Graduate of Peking University, 2021.
 * Outstanding Student Leader of Peking University, 2019 & 2020.
 * Merit Student of Peking University, 2018 & 2022. 
