@@ -18,5 +18,5 @@ Research Interests
 My research interests include
 - Theory of variational Bayesian methods and MCMC.
 - Bayesian phylogenetic inference algorithms.
-- Generative models and their theoretical foundations.
+<!-- - Generative models and their theoretical foundations. -->
 
