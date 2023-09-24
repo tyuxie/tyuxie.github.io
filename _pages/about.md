@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 I am a Ph.D. student in the School of Mathematical Sciences at Peking University. 
-Previously, I received my bachelor degree in statistics from School of Mathematical Sciences and my second bachelor degree in economics from National School of Development in Peking University.
+Previously, I received my bachelor degree in mathematical statistics from School of Mathematical Sciences and my second bachelor degree in economics from National School of Development in Peking University.
 
 Research Interests
 ======
