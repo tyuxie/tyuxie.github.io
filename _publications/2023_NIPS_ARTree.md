@@ -1,7 +1,7 @@
 ---
 title: "ARTree: A Deep Autoregressive Model for Phylogenetic Inference"
 collection: publications
-permalink: /publication/NIPS_2023
+permalink: /publication/2023_NIPS_ARTree
 author: <strong>Tianyu Xie</strong>, Cheng Zhang. 
 conf: 'In Proceedings of 37th Conference on Neural Information Processing Systems (spotlight presentation)'
 year: 2023
