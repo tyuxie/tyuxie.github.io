@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: "Jia Gu, 顾嘉"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,14 +9,18 @@ redirect_from:
 ---
 
 About Me
-======
-I am a Ph.D. student in the School of Mathematical Sciences at Peking University. 
-Previously, I received my bachelor degree in mathematical statistics from School of Mathematical Sciences and my second bachelor degree in economics from National School of Development in Peking University.
+------------------------
+Jia Gu is a final year Ph.D. student at the [Center for Statistical Science](https://www.stat-center.pku.edu.cn/), Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/).
+
 
 Research Interests
-======
-My research interests include
-- Theory of variational Bayesian methods and MCMC.
-- Bayesian phylogenetic inference algorithms.
-<!-- - Generative models and their theoretical foundations. -->
+------------------------
+
+- Distributed Statistical Inference
+- Federated Learning
+- Statistical Inference for stochastic gradient descent
+- Epidemic Modeling
+- Data Fusion
+
+
 
