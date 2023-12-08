@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jia Gu, 顾嘉"
+title: "Tianyu Xie"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,17 +10,14 @@ redirect_from:
 
 About Me
 ------------------------
-Jia Gu is a final year Ph.D. student at the [Center for Statistical Science](https://www.stat-center.pku.edu.cn/), Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/).
-
+I am a third-year Ph.D student at the [School of Mathematical Sciences](https://www.math.pku.edu.cn/), Peking Univeristy.
 
 Research Interests
 ------------------------
 
-- Distributed Statistical Inference
-- Federated Learning
-- Statistical Inference for stochastic gradient descent
-- Epidemic Modeling
-- Data Fusion
+- Bayesian Inference
+- Generative Models
+- Computational Biology
 
 
 
