@@ -1,11 +1,9 @@
 ---
-title: 'Blog Post number 3'
-date: 2014-08-14
-permalink: /posts/2014/08/blog-post-3/
+title: '谈谈最后的十天'
+date: 2018-06-07
+permalink: /posts/last-ten-days/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - 回忆录
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. 
