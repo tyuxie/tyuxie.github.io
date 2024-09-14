@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tianyu Xie"
+# title: "Tianyu Xie"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
