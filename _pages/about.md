@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "Tianyu Xie"
+title: "Tianyu Xie"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,15 +10,17 @@ redirect_from:
 
 About Me
 ------------------------
-I am a fourth-year Ph.D. student at [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking Univeristy](https://www.pku.edu.cn/).
+I am currently a fourth-year Ph.D. student at Department of Probability and Statistics, [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking Univeristy](https://www.pku.edu.cn/), supervised by Prof. Cheng Zhang.
 Previously, I received my bachelor degree in statistics from School of Mathematical Sciences, Peking University and my second bachelor degree in economics from National School of Development, Peking University.
 
 Research Interests
 ------------------------
+I am broadly interested in the theory and application of statistical machine learning. Specifically, I am interested in Bayesian inference as well as its applications in the following topics:
+- <strong>Bayesian Inference Methodology</strong>: innovative methods in variational inference, Markov chain Monte Carlo, particle-based sampling, etc.
+- <strong>Generative Models</strong>: score-based diffusion models, flow-based generative models, etc., and their connections with Bayesian inference.
+- <strong>Computational Biology</strong>: Bayesian phylogenetic inference with deep learning methods. This is also my Ph.D. thesis.
+Please feel free to drop me an email if you are interested in collaborating with me.
 
-- Bayesian Inference
-- Generative Models
-- Computational Biology
 
 
 
