@@ -38,20 +38,20 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-@import "minimal-mistakes";
+// @import "minimal-mistakes";
 
-html {
-    font-size: 18px; // change to whatever
+// html {
+//     font-size: 18px; // change to whatever
   
-    @include breakpoint($medium) {
-      font-size: 20px; // change to whatever
-    }
+//     @include breakpoint($medium) {
+//       font-size: 20px; // change to whatever
+//     }
   
-    @include breakpoint($large) {
-      font-size: 22px; // change to whatever
-    }
+//     @include breakpoint($large) {
+//       font-size: 22px; // change to whatever
+//     }
   
-    @include breakpoint($x-large) {
-      font-size: 24px; // change to whatever
-    }
-  }
+//     @include breakpoint($x-large) {
+//       font-size: 24px; // change to whatever
+//     }
+//   }
