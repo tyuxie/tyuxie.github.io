@@ -19,7 +19,6 @@ I am broadly interested in the theory and application of statistical machine lea
 - <strong>Bayesian Inference Methodology</strong>: innovative methods in variational inference, Markov chain Monte Carlo, particle-based sampling, etc.
 - <strong>Generative Models</strong>: score-based diffusion models, flow-based generative models, etc., and their connections with Bayesian inference.
 - <strong>Computational Biology</strong>: Bayesian phylogenetic inference with deep learning methods. This is also my Ph.D. thesis.
-Please feel free to drop me an email if you are interested in collaborating with me.
 
 
 
