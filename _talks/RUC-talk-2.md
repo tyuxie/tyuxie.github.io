@@ -1,5 +1,5 @@
 ---
-title: "Improving Tree Topology Density Estimation with Stochastic Optimization and Variance Reduction"
+title: "Improving Tree Probability Estimation with Stochastic Optimization and Variance Reduction"
 collection: talks
 type: "Invited Talk"
 # permalink: /talks/slides/artree.pdf
