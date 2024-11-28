@@ -24,8 +24,8 @@ I am broadly interested in the theory and application of statistical machine lea
 ------------------------
 - <strong>Huawei Technologies</strong>, Noah's Ark Lab (2024.06-present). 
 - <strong>Megvii Technology Inc.</strong>, Research Institute (2022.12-2024.06).  -->
-
+<!-- 
 Academic Services
 ------------------------
-- <strong>Conference Reviewer</strong>: NeurIPS, ICLR, AISTATS, ACML
+- <strong>Conference Reviewer</strong>: NeurIPS, ICLR, AISTATS, ACML -->
 
