@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ------------------------
-I am currently a fourth-year Ph.D. student at Department of Probability and Statistics, [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by Prof. Cheng Zhang.
+I am currently a final-year PhD student at Department of Probability and Statistics, [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by Prof. Cheng Zhang.
 Previously, I received my bachelor degree in statistics from School of Mathematical Sciences, Peking University and my second bachelor degree in economics from National School of Development, Peking University.
 
 Research Interests
