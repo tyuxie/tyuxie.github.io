@@ -3,7 +3,7 @@ title: "ARTreeFormer: A Faster Attention-based Autoregressive Model for Phylogen
 collection: publications
 permalink: /publication/2025_ARTreeFormer
 author: <strong>Tianyu Xie</strong>, Yicong Mao, Cheng Zhang.
-conf: 'Preprint, arXiv:2507.18380'
+conf: 'PLOS Computational Biology (to appear)'
 year: 2025
 paperurl: https://arxiv.org/abs/2507.18380
 codeurl: https://github.com/tyuxie/ARTreeFormer
