@@ -20,11 +20,15 @@ I am broadly interested in the theory and application of statistical machine lea
 - <strong>Generative Models</strong>: score-based diffusion models, flow-based generative models, etc., and their connections with Bayesian inference.
 - <strong>Computational Biology</strong>: Bayesian phylogenetic inference with deep learning methods. This is also my Ph.D. thesis.
 
-<!-- Interships
+<!-- 
+Interships
 ------------------------
 - <strong>Huawei Technologies</strong>, Noah's Ark Lab (2024.06-present). 
-- <strong>Megvii Technology Inc.</strong>, Research Institute (2022.12-2024.06).  -->
+- <strong>Megvii Technology Inc.</strong>, Research Institute (2022.12-2024.06).  
+-->
+
 <!-- 
 Academic Services
 ------------------------
-- <strong>Conference Reviewer</strong>: NeurIPS, ICLR, AISTATS, ACML -->
+- <strong>Conference Reviewer</strong>: NeurIPS, ICLR, AISTATS, ACML 
+-->
